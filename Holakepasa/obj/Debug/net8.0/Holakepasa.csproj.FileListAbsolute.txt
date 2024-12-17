@@ -1,0 +1,14 @@
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\bin\Debug\net8.0\Holakepasa.exe
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\bin\Debug\net8.0\Holakepasa.deps.json
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\bin\Debug\net8.0\Holakepasa.runtimeconfig.json
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\bin\Debug\net8.0\Holakepasa.dll
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\bin\Debug\net8.0\Holakepasa.pdb
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.AssemblyInfoInputs.cache
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.AssemblyInfo.cs
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.csproj.CoreCompileInputs.cache
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.dll
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\refint\Holakepasa.dll
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.pdb
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\Holakepasa.genruntimeconfig.cache
+C:\Users\UsuarioT\RiderProjects\Holakepasa\Holakepasa\obj\Debug\net8.0\ref\Holakepasa.dll
